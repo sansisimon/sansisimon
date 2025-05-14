@@ -5,8 +5,7 @@
 
 ---
 
-I'm a **Data Analyst** with 6 years of experience in the financial sector, specialized in portfolio analysis, reporting, and process automation. Recently, I've expanded my technical toolkit with **Python, SQL, Power BI, Tableau**, and more, aiming to bridge business insight with data-driven solutions.
-
+Hello 👋🏽! I'm Sandra, **Data analyst** with 6 years of experience in the financial sector, specialised in portfolio analysis, reporting and regulatory. Recently trained in advanced analysis techniques (**Python, SQL, Power BI, Tableau**) to be able to translate business needs into data-driven solutions. With strong analytical skills and experience in demanding environments, teamwork and continuous learning.
 
 ---
 
