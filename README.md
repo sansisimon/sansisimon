@@ -12,7 +12,7 @@ I'm a **Data Analyst** with 6 years of experience in the financial sector, speci
 
 ### 🛠 Tech Stack
 
-<div align="center">
+<div align="">
   <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -24,13 +24,13 @@ I'm a **Data Analyst** with 6 years of experience in the financial sector, speci
 
 ### 📫 Let's connect
 
-<div align="center">
+<div align="">
   <a href="mailto:sandrasimonm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sandrasimonm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
 
-<div align="center">
+<div align="">
 📍 Based in Madrid 
 </div>
